@@ -1,5 +1,4 @@
 <?php use_helper('Date') ?>
-
 <br/>
 <table class="PortletHeaderColor" width="95%" align="center" cellspacing="0" cellpadding="0" border="0">
       <tbody>
